@@ -6,7 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieljjunior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljjunior&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+<hr>
 
+  ### Liguagens que eu domino :)
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,7 +23,7 @@
   <br>
   <img   alt="mecode" height="220" width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
    <img align="right" alt="awsetc" height="220" style="border-radius:50px;" src="https://raidbr.com.br/wp-content/uploads/2020/06/aws-azure-google-1.png">
-  
+
 <div align="center">
 <hr>
  <a href = "mailto:daniel.souza.jr16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
