@@ -15,10 +15,12 @@
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://i.imgur.com/isEVG2D.png">
+ 
 </div>
   
   <br>
-  <img   alt="me-trying-code" height="220" width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img   alt="mecode" height="220" width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+   <img align="right" alt="awsetc" height="220" style="border-radius:50px;" src="https://raidbr.com.br/wp-content/uploads/2020/06/aws-azure-google-1.png">
   
 <div align="center">
 <hr>
