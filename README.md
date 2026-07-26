@@ -1,34 +1,30 @@
 # Hi there, I'm Daniel Junior 👋
 
-### 🛡️ Cybersecurity Analyst | Detection Engineering & SecOps
+### 🛡️ Cybersecurity Analyst | Detection Engineering & Security Operations
 
-Cybersecurity Analyst with a strong background in Systems Development and Computer Networks. Focused on SecOps, Detection Engineering, Incident Response, and Security Automation to build resilient environments and respond effectively to threats.
+Cybersecurity Analyst with a strong background in Systems Development and Computer Networks. Focused on Security Operations, Detection Engineering, Incident Response, and Automation to build resilient environments and respond effectively to threats.
 
 ---
 
 ### 🧰 Core Skills & Technologies
 
 #### 🎯 Detection Engineering & SecOps
-![Google SecOps](https://img.shields.io/badge/Google_SecOps_(Chronicle)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=security&logoColor=white)
-![YARA-L](https://img.shields.io/badge/YARA--L-FF6F00?style=for-the-badge&logo=code&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-CC0000?style=for-the-badge&logo=crowdstrike&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-004088?style=for-the-badge&logo=security&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![SIEM & Log Analytics](https://img.shields.io/badge/SIEM_%26_Log_Analytics-000000?style=for-the-badge&logo=security&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0055FF?style=for-the-badge)
+![YARA / Detection Rules](https://img.shields.io/badge/YARA_%2F_Rule_Creation-FF6F00?style=for-the-badge&logo=code&logoColor=white)
+![EDR & XDR](https://img.shields.io/badge/EDR_%26_XDR-CC0000?style=for-the-badge)
+![Threat Intelligence / MISP](https://img.shields.io/badge/Threat_Intel_%26_MISP-004088?style=for-the-badge)
+![Network Security & Firewalls](https://img.shields.io/badge/Network_Security-EE3124?style=for-the-badge)
 
 #### 🚀 Operations & Defense
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0055FF?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-E65100?style=for-the-badge)
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-4A148C?style=for-the-badge)
 ![Alert Triage](https://img.shields.io/badge/Alert_Triage-33691E?style=for-the-badge)
-![Rule Creation](https://img.shields.io/badge/Rule_Creation-00838F?style=for-the-badge)
 ![Security Automation](https://img.shields.io/badge/Security_Automation-1A237E?style=for-the-badge)
 
 #### ☁️ Cloud, IAM & Environments
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cloud Security (GCP / AWS)](https://img.shields.io/badge/Cloud_Security_(GCP%2FAWS)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SaaS Security (M365 / Workspace)](https://img.shields.io/badge/SaaS_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![IAM & OIDC](https://img.shields.io/badge/IAM_%26_OIDC-000000?style=for-the-badge)
 ![DLP](https://img.shields.io/badge/DLP-2E7D32?style=for-the-badge)
 
